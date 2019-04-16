@@ -1,0 +1,8 @@
+[package]
+name = "guess"
+version = "0.1.0"
+authors = ["guy.peer <guy.peer@naturalint.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.6.5"
