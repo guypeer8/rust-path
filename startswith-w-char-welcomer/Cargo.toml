@@ -1,0 +1,7 @@
+[package]
+name = "startswith-w-char-welcomer"
+version = "0.1.0"
+authors = ["guy.peer <guy.peer@naturalint.com>"]
+edition = "2018"
+
+[dependencies]
